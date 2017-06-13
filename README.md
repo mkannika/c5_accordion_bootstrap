@@ -1,2 +1,2 @@
-# c5_accordion_bootstrap
-Accordion Bootstrap v2 for Concrete5 Block 
+# Concrete5 Block Accordion Bootstrap
+Accordion Bootstrap v2 for Concrete5 Block
